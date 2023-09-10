@@ -14,9 +14,9 @@ Other interests:
 - 🚴🏼‍♂️ Bike riding
 - 🏕️ Travel
 
-📫 How to reach me: dani.ysc6@gmail.com | <a href="https://www.linkedin.com/in/daniel-ysc/">Linkedin</a>
-
 ##
+
+📫 How to reach me: dani.ysc6@gmail.com | <a href="https://www.linkedin.com/in/daniel-ysc/">Linkedin</a>
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
