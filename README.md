@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello! 👋
+I’m Daniel, someone fascinated with the world of data, that has experience with data engineering and data analysis. Thanks for the visit. Enjoy! :relaxed:
+
+- 🎓 Data Engineer
+- 🎓 Bachelor's degree in Psychology @Univasf
+- 🗣️ PT | EN
+
+Other interests:
+
+- 🏍️ Motorcycles
+- 🏎️ Fórmula 1
+- ⚽ Football
+- 🎮 Videogames
+- 🚴🏼‍♂️ Bike riding
+- 🏕️ Travel
+
+📫 How to reach me: dani.ysc6@gmail.com | <a href="https://www.linkedin.com/in/daniel-ysc/">Linkedin</a>
 
 <!--
-**dani-ysc/dani-ysc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Frameworks and Libraries
+
+## Data Science
+
+## IDEs
+
+## Version Control
+
 -->
+
+
